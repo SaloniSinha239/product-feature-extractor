@@ -1,0 +1,106 @@
+Review ID,Review Text,Extracted Features
+1,The battery lasts all day and the camera is amazing.,"battery life, camera quality"
+2,I love the screen resolution but the phone heats up quickly.,"screen resolution, overheating"
+3,"Performance is smooth, but the battery drains fast.","performance, battery life"
+4,"Camera quality is top-notch, especially in low light.","camera quality, low-light performance"
+5,"Charging is super fast, but the phone gets warm.","Battery life, camera quality, screen resolution, overheating"
+6,The phone is lightweight and fits perfectly in hand.,The phone is lightweight and fits perfectly in hand.
+7,The fingerprint sensor is slow and sometimes unresponsive.,The fingerprint sensor is slow and sometimes unresponsive
+8,The display is vibrant and the speakers are loud.,The display is vibrant and the speakers are loud.
+9,Face unlock works well even in the dark.,Face unlock
+10,The phone lags when switching between apps.,The phone lags when switching between apps.
+11,The battery life is excellent.,"Battery life, camera quality, screen resolution"
+12,The camera quality is disappointing.,"Camera quality, low-light performance"
+13,The screen resolution is crystal clear.,"screen resolution, high-quality"
+14,The phone overheats during gaming.,Overheating
+15,Charging speed is very impressive.,"Battery life, camera quality, screen resolution, overheating, etc."
+16,The design is sleek and modern.,The design is sleek and modern.
+17,The fingerprint sensor is very responsive.,The fingerprint sensor is very responsive
+18,Face unlock is unreliable in low light.,Face unlock is unreliable in low light
+19,App performance is smooth and fast.,"performance, speed"
+20,Speaker quality is loud and clear.,Speaker quality is loud and clear
+21,Build quality feels premium.,Build quality feels premium
+22,The phone is very durable.,The phone is very durable.
+23,Software updates are timely.,Software updates are timely
+24,The user interface is intuitive.,The user interface is intuitive
+25,Storage capacity is more than enough.,Storage capacity is more than enough
+26,Battery drains quickly under heavy use.,"Battery life, camera quality, screen resolution, overheating"
+27,Camera captures vibrant colors.,"Camera quality, low-light performance"
+28,Screen resolution is dull.,"Screen resolution, low light performance"
+29,Performance is laggy at times.,"performance, laggy at times"
+30,The phone heats up fast.,The phone heats up fast.
+31,Charging is inconsistent.,charging is inconsistent
+32,Design is outdated.,Design is outdated
+33,Fingerprint sensor is buggy.,Fingerprint sensor is buggy
+34,Face unlock is fast and secure.,Face unlock is fast and secure
+35,Apps crash frequently.,Apps crash frequently
+36,Speakers are not loud enough.,Speakers are not loud enough
+37,Build quality is fragile.,Build quality is fragile
+38,The phone is not water-resistant.,Water-resistant
+39,Software updates are delayed.,Software updates are delayed
+40,UI is confusing.,UI is confusing
+41,Storage fills up quickly.,Storage fills up quickly
+42,Battery lasts for two days.,"Battery life, camera quality, low-light performance"
+43,Camera performs well in low light.,"Camera quality, low-light performance"
+44,Screen is bright and colorful.,Screen is bright and colorful
+45,Performance is top-notch.,"performance, high-light performance"
+46,The phone stays cool during use.,The phone stays cool during use.
+47,Charging completes in under an hour.,"Battery life, camera quality, screen resolution, overheating, etc."
+48,Design is ergonomic.,The design is ergonomic.
+49,Fingerprint sensor works flawlessly.,Fingerprint sensor
+50,Face unlock is smooth.,Face unlock
+51,Apps open instantly.,Apps open instantly
+52,Speakers deliver rich sound.,Sound quality
+53,Build feels solid.,Build feels solid
+54,The phone survived a drop.,The phone survived a drop.
+55,Software is up to date.,Software is up to date
+56,UI animations are smooth.,UI animations are smooth
+57,Storage is expandable.,Storage is expandable
+58,Battery overheats while charging.,"Battery life, camera quality, screen resolution, overheating"
+59,Camera app crashes often.,Camera app crashes often
+60,Screen has poor viewing angles.,Screen has poor viewing angles
+61,Performance stutters with multitasking.,"performance, multitasking"
+62,The phone gets hot quickly.,Overheating
+63,Charging port is loose.,Charging port is loose
+64,Design feels cheap.,Design feels cheap
+65,Fingerprint sensor is inaccurate.,Fingerprint sensor is inaccurate
+66,Face unlock fails sometimes.,Face unlock fails sometimes
+67,Apps take time to load.,Apps take time to load
+68,Speakers distort at high volume.,Speakers distort at high volume
+69,Build creaks under pressure.,Build creaks under pressure
+70,The phone is not scratch-resistant.,The phone is not scratch-resistant
+71,Software has bugs.,Software has bugs
+72,UI is not user-friendly.,UI is not user-friendly
+73,Storage is limited.,Storage is limited
+74,Battery is reliable.,"Battery life, camera quality, low-light performance"
+75,Camera is sharp and detailed.,"Camera quality, low-light performance"
+76,Screen is easy to read outdoors.,Screen is easy to read outdoors
+77,Performance is consistent.,"performance, quality"
+78,The phone remains cool.,The phone remains cool.
+79,Charging is fast and safe.,Fast and safe
+80,Design is attractive.,Design is attractive
+81,Fingerprint sensor is quick.,Fingerprint sensor is quick
+82,Face unlock is convenient.,Face unlock
+83,Apps run smoothly.,Apps run smoothly
+84,Speakers are crisp.,Speakers are crisp
+85,Build is sturdy.,The build is sturdy.
+86,The phone is shockproof.,The phone is shockproof.
+87,Software is stable.,Software is stable
+88,UI is clean.,UI is clean
+89,Storage is ample.,Storage is ample
+90,Battery drains fast when gaming.,"battery life, camera quality, screen resolution, overheating"
+91,Camera struggles in low light.,"Camera quality, low-light performance"
+92,Screen flickers occasionally.,Screen flickers occasionally
+93,Performance drops with updates.,"performance, battery life, camera quality"
+94,The phone heats up during calls.,The phone heats up during calls
+95,Charging is slow.,charging is slow
+96,Design lacks innovation.,Design lacks innovation
+97,Fingerprint sensor is slow.,Fingerprint sensor is slow
+98,Face unlock doesn't work with glasses.,Face unlock doesn't work with glasses
+99,Apps freeze sometimes.,Apps freeze sometimes
+100,Speakers lack bass.,Bass is not a problem.
+101,Build feels plasticky.,Build feels plasticky
+102,The phone is not durable.,Not durable
+103,Software crashes often.,Software crashes often
+104,UI is cluttered.,UI is cluttered
+105,Storage is insufficient.,Storage is insufficient
